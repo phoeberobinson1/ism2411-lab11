@@ -1,6 +1,6 @@
 # ISM2411 Lab 11 — Customer Dictionary & Lookup
 
-**Phoebe Robinson:** 
+**Name:** Phoebe Robinson
 
 ## How to Run
 
